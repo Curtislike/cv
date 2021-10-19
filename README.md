@@ -1,2 +1,2 @@
-# rsschool-cv
-https://curtislike.github.io/rsschool-cv/cv
+
+https://flamboyant-brattain-1023b6.netlify.app/
